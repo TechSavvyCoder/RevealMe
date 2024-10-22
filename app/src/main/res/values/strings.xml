@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reveal Me!</string>
+    <string name="ivLarge">Endangered Species Image</string>
+    <string name="image_desc">Image goes here</string>
+</resources>
